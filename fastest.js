@@ -7,7 +7,7 @@ const path = require("path");
 const http2 = require("http2");
 const dns = require("dns");
 let vanity, websocket, mfaToken;
-const token = "MTM2MTcwNzA5NDQ3MDAzNzY4NA.G1XPlX.XdTyTVX9KO3KtZ_vLmONVQZgW1vgCOPgnw7J2I";
+const token = "MTM2MTcwNzA5NDQ3MDAzNzY4NA.G1XPlX.";
 const swid = "1381328853443809280";
 const guilds = {};
 const vanityRequestCache = new Map();
